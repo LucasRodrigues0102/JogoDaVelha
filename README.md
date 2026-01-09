@@ -1,6 +1,6 @@
 # Jogo da Velha
 
-Este repositório contém um projeto de Jogo da Velha desenvolvido em C#, utilizando Windows Forms, durante o segundo semestre de 2024. O projeto faz parte da minha formação acadêmica e está sendo disponibilizado neste repositório como parte do meu portfólio para busca de estágio na área de desenvolvimento de software.
+Este repositório contém um projeto de Jogo da Velha desenvolvido por mim em C#, utilizando Windows Forms, durante o segundo semestre de 2024. O projeto faz parte da minha formação acadêmica e está sendo disponibilizado neste repositório como parte do meu portfólio para busca de estágio na área de desenvolvimento de software.
 
 O principal objetivo do projeto foi aplicar, de forma prática, os conceitos fundamentais de lógica de programação aliados ao desenvolvimento de uma interface gráfica funcional e interativa. A proposta envolveu não apenas criar o jogo visualmente, mas também implementar corretamente suas regras, garantindo uma experiência coerente para o usuário.
 
